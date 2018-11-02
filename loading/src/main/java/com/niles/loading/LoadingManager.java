@@ -4,6 +4,7 @@ import android.content.Context;
 
 import com.alibaba.android.arouter.facade.annotation.Route;
 import com.kingja.loadsir.callback.Callback;
+import com.niles.appbase.ui.loading.LoaderProvider;
 import com.niles.appbase.ui.loading.LoadingConfig;
 
 /**
